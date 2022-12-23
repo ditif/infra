@@ -7,4 +7,4 @@ Nikmati layanan maksimal broadband di lingkungan kampus dengan menggunakan wifi,
 1. Install Aplikasi [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) pada perangkat kakak
 2. Buka aplikasi tersebut, pada laman utama(connected), pastikan Frequency menggunakan 5 Ghz dan Protocol 802.11ac
 ![WiFi Analyzer](/img/cekhwwifi.jpeg "Contoh perangkat yang sudah support wifi broadband kampus")
-3. Apabila perangkat kakak belum mendukung teknologi 802.11ac 5G, tidak usah berkecil hati. Kakak tinggal membeli saja **USB Dongle WiFi AC 5G** di toko online kesayangan kakak.
+3. Apabila perangkat kakak belum mendukung teknologi 802.11ac 5G, tidak usah berkecil hati. Kakak tinggal membeli saja **USB WiFi AC 5G** di toko online kesayangan kakak.
